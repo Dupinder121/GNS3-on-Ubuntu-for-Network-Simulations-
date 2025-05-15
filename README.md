@@ -92,10 +92,6 @@ If you’ve successfully configured GNS3 on Ubuntu or faced similar challenges:
 - Open an issue on this repo with your experience or tips.
 - Submit a pull request with corrected or improved steps/configuration.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## 🙏 Acknowledgments
 
 Special thanks to the GNS3 community and contributors for their extensive documentation and support resources.
