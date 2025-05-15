@@ -36,8 +36,7 @@ The goal of this project was to:
   ```
 
 ### 3. Installing VMware Workstation Pro 
-- Downloaded VMware Workstation Pro for hosting virtual appliances: 
-  from https://support.broadcom.com/group/ecx/downloads
+- Downloaded VMware Workstation Pro for hosting virtual appliances: from https://support.broadcom.com/group/ecx/downloads
 - Installed VMware Workstation Pro 
   ```bash
   sudo chmod +X VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle
